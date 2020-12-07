@@ -13,9 +13,9 @@ function Cars({ redCar, blueCar, yellowCar, moveCar }) {
         <img
           className={redCar ? 'car-right' : 'car-left'}
           src={carRed}
-          alt='red car'
+          alt="red car"
         />
-        <button onClick={() => moveCar('red', !redCar)} type='button'>
+        <button onClick={() => moveCar('red', !redCar)} type="button">
           move
         </button>
       </div>
@@ -23,9 +23,9 @@ function Cars({ redCar, blueCar, yellowCar, moveCar }) {
         <img
           className={blueCar ? 'car-right' : 'car-left'}
           src={carBlue}
-          alt='blue car'
+          alt="blue car"
         />
-        <button onClick={() => moveCar('blue', !blueCar)} type='button'>
+        <button onClick={() => moveCar('blue', !blueCar)} type="button">
           move
         </button>
       </div>
@@ -33,9 +33,9 @@ function Cars({ redCar, blueCar, yellowCar, moveCar }) {
         <img
           className={yellowCar ? 'car-right' : 'car-left'}
           src={carYellow}
-          alt='yellow car'
+          alt="yellow car"
         />
-        <button onClick={() => moveCar('yellow', !yellowCar)} type='button'>
+        <button onClick={() => moveCar('yellow', !yellowCar)} type="button">
           move
         </button>
       </div>
