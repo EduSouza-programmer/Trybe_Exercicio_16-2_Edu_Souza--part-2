@@ -8,7 +8,7 @@ import carYellow from './images/carYellow.jpeg';
 
 function Cars({ redCar, blueCar, yellowCar, moveCar }) {
   return (
-    <div>
+    <div className="ctn">
       <div>
         <img
           className={redCar ? 'car-right' : 'car-left'}

@@ -34,7 +34,7 @@
 
 # :rocket: Sobre o Exercício
 
-Redux é uma ferramenta para gerenciar o estado de uma aplicação JavaScript . Antes de entender o porquê de utilizar React com Redux , deve-se entender o porquê de utilizarmos uma biblioteca externa para controlar e gerenciar o estado de uma aplicação. A maioria das bibliotecas, como React , Angular etc, possuem uma forma interna de gerenciar o estado da aplicação sem o auxílio ou necessidade de uma ferramenta externa. Isto funciona bem para aplicações que possuem poucos componentes mas, à medida que a aplicação cresce, o gerenciamento de estados compartilhados entre componentes torna-se uma tarefa complicada e desgastante
+Redux é uma ferramenta para gerenciar o estado de uma aplicação JavaScript . Antes de entender o porquê de utilizar React com Redux , deve-se entender o porquê de utilizarmos uma biblioteca externa para controlar e gerenciar o estado de uma aplicação. A maioria das bibliotecas, como React , Angular etc, possuem uma forma interna de gerenciar o estado da aplicação sem o auxílio ou necessidade de uma ferramenta externa. Isto funciona bem para aplicações que possuem poucos componentes mas, à medida que a aplicação cresce, o gerenciamento de estados compartilhados entre componentes torna-se uma tarefa complicada e desgastante.
 
 # :postbox: Entrega
 
@@ -42,7 +42,7 @@ Você irá desenvolver 3 exercícios para solidificar seus conhecimentos de Redu
 
 - No primeiro exercício, desenvolveremos um semáforo simples, [veja parte 1.](https://github.com/EduSouza-programmer/Trybe_Exercicio_16-2_Edu_Souza--part-1)
 - No segundo trabalharemos com mais estados aplicando movimento em 3 carros.
-- E para finalizar iremos combinar ambos os exercícios em um só, utilizando o combineReducers . [veja parte 3.]()
+- E para finalizar iremos combinar ambos os exercícios em um só, utilizando o combineReducers, [veja parte 3.]()
 
 ### :clipboard: Sumário
 
