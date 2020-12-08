@@ -42,7 +42,7 @@ Você irá desenvolver 3 exercícios para solidificar seus conhecimentos de Redu
 
 - No primeiro exercício, desenvolveremos um semáforo simples, [veja parte 1.](https://github.com/EduSouza-programmer/Trybe_Exercicio_16-2_Edu_Souza--part-1)
 - No segundo trabalharemos com mais estados aplicando movimento em 3 carros.
-- E para finalizar iremos combinar ambos os exercícios em um só, utilizando o combineReducers, [veja parte 3.]()
+- E para finalizar iremos combinar ambos os exercícios em um só, utilizando o combineReducers, [veja parte 3.](https://github.com/EduSouza-programmer/Trybe_Exercicio_16-2_Edu_Souza--part-3-final)
 
 ### :clipboard: Sumário
 
@@ -52,13 +52,13 @@ Você irá desenvolver 3 exercícios para solidificar seus conhecimentos de Redu
 
 ### 2°
 
-Nesse exercício temos três carros com as cores Red, Blue e Yellow. Cada um deles apresenta um botão que ao ser clicado passa um estado para o Redux com um booleano.
+- Nesse exercício temos três carros com as cores Red, Blue e Yellow. Cada um deles apresenta um botão que ao ser clicado passa um estado para o `Redux` com um booleano.
 
-Esse estado irá ser utilizado para alterar o CSS com a imagem do carro, para que ele se mova ou não.
+- Esse estado irá ser utilizado para alterar o CSS com a imagem do carro, para que ele se mova ou não.
 
-Nesse exercício toda a store já está pronta, o único arquivo a ser alterado é o arquivo de nome Cars.jsx.
+- Nesse exercício toda a store já está pronta, o único arquivo a ser alterado é o arquivo de nome `Cars.jsx`.
 
-Utilize Redux para armazenar todo o estado da aplicação.
+- Utilize **Redux** para armazenar todo o estado da aplicação.
 
 #### Resposta:
 
